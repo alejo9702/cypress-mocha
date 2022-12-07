@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ArestrepoBlankfactor/cypress-mocha.git"
+    "url": "git+https://github.com/alejo9702/cypress-mocha"
   },
   "author": "Alejandro Restrepo Muñoz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ArestrepoBlankfactor/cypress-mocha/issues"
+    "url": "https://github.com/alejo9702/cypress-mocha/issues"
   },
-  "homepage": "https://github.com/ArestrepoBlankfactor/cypress-mocha#readme",
+  "homepage": "https://github.com/alejo9702/cypress-mocha#readme",
   "devDependencies": {
     "cypress": "^10.8.0",
     "cypress-xpath": "^1.6.2"
