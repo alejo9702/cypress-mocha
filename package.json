@@ -1,0 +1,24 @@
+{
+  "name": "cypress-mocha",
+  "version": "1.0.0",
+  "description": "sckeleton project",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress npm run scripts",
+    "open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArestrepoBlankfactor/cypress-mocha.git"
+  },
+  "author": "Alejandro Restrepo Muñoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArestrepoBlankfactor/cypress-mocha/issues"
+  },
+  "homepage": "https://github.com/ArestrepoBlankfactor/cypress-mocha#readme",
+  "devDependencies": {
+    "cypress": "^10.8.0",
+    "cypress-xpath": "^1.6.2"
+  }
+}
